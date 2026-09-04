@@ -1,0 +1,9 @@
+﻿# Large files that exceed GitHub's 100MB file size limit
+assets/documents/DIAGEO_Annual_Conference_2026.pptx
+assets/documents/JK_Tyre_2W_Distributors_Meet.pptx
+assets/documents/Musical_IPs_RD.pptx
+assets/documents/Urban_Reset_Wellness_IP.pptx
+
+# OS files
+.DS_Store
+Thumbs.db
